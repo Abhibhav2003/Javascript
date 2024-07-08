@@ -1,2 +1,2 @@
 # Javascript
-This repository contains content of JavaScript which I learnt, along with some projects that I made
+This repository contains JavaScript content that I learnt, along with some projects.
